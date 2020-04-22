@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 import os 
 from random import seed
 from random import randint
-from package import readlog
 
 baseurl = "http://agile.egloos.com/"
 requestUrl = baseurl + 'archives/'
